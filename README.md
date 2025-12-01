@@ -31,7 +31,7 @@ Using day 1 as an example here - change 1 for the digit you care about:
 
 ```sh
 AOC_COOKIE=<cookie> gleam run new 1 --year=2025 --fetch
-AOC_COOKIE=<cookie> gleam run new 1 --year=2025 --fetch
+AOC_COOKIE=<cookie> gleam run new 1 --year=2025 --example --fetch
 gleam run run 1 --year=2025 --example
 gleam run new 1 --year=2025
 ```
